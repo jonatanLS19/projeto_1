@@ -18,7 +18,7 @@ body, input, textarea{
 
 header {
     padding: 16px 0;
-    background-color: #182c61;
+    background-color: #ff4b1f;
     color: #ecf0f1;
 }
 
@@ -68,7 +68,7 @@ section h2{
 }
 
 section{
-    color: #182c61;
+    color: #ff4b1f;
 }
 
 section p{
@@ -120,22 +120,22 @@ section h3{
 }
 
 form button{
-    background-color: #182c61;
+    background-color: #ff4b1f;
     color: #fff;
     border: none;
     cursor: pointer;
 }
 
 form button:hover{
-    background-color: #314e9e;
+    background-color: #e66c47;
 }
 
 input:focus, textarea:focus{
-    outline-color: #182c61;
+    outline-color: #ff4b1f;
 }
 
 footer{
-    background-color: #182c61;
+    background-color: #ff4b1f;
     color:#ecf0f1;
     padding: 16px 0;
 }
